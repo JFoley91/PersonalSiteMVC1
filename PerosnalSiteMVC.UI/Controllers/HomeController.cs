@@ -14,6 +14,14 @@ namespace PerosnalSiteMVC.UI.Controllers
             return View();
         }
 
+        [HttpGet]
+        public ActionResult Resume()
+        {
+
+
+            return View();
+        }
+
         public ActionResult Classmates()
         {
             

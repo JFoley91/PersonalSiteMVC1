@@ -130,8 +130,11 @@
   <ItemGroup>
     <Content Include="Content\assets\Classmates.css" />
     <Content Include="Content\assets\images\JoeMcguirepic.jpg" />
+    <Content Include="Content\assets\images\ProfilePictureStandIn.jpg" />
     <Content Include="Content\assets\images\Selfie.jpg" />
+    <Content Include="Content\assets\images\TempProfilePhotoPlaceHolder.jpg" />
     <Content Include="Content\assets\index.html" />
+    <Content Include="Content\assets\Resume.css" />
     <Content Include="Content\assets\StyleSheet1.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -206,6 +209,7 @@
     <Content Include="_Archive\nicepage.js" />
     <Content Include="_Archive\Post-Template.css" />
     <Content Include="Configs\AppSecretKeys.config" />
+    <Content Include="Content\Files\Resume.docx" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -232,6 +236,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\_OriginalLayout.cshtml" />
+    <Content Include="Views\Home\Resume.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

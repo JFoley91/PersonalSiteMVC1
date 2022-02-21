@@ -13,7 +13,7 @@
 .u-section-1 .u-image-1 {
   width: 422px;
   height: 422px;
-  background-image: url("../assets/images/Headshot.jpg");
+  background-image: url("images/Headshot.jpg");
   background-position: 50% 50%;
   margin: -365px auto 0;
 }
@@ -488,7 +488,7 @@
     margin-left: 0;
   }
 } .u-section-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../assets/images/w4-min.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/w4-min.jpg");
   background-position: 50% 50%;
 }
 
